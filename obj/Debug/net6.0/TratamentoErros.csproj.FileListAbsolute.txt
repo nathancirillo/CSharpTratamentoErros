@@ -1,0 +1,15 @@
+C:\Projetos\BaltaIO\TratamentoErros\bin\Debug\net6.0\TratamentoErros.exe
+C:\Projetos\BaltaIO\TratamentoErros\bin\Debug\net6.0\TratamentoErros.deps.json
+C:\Projetos\BaltaIO\TratamentoErros\bin\Debug\net6.0\TratamentoErros.runtimeconfig.json
+C:\Projetos\BaltaIO\TratamentoErros\bin\Debug\net6.0\TratamentoErros.dll
+C:\Projetos\BaltaIO\TratamentoErros\bin\Debug\net6.0\TratamentoErros.pdb
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\TratamentoErros.csproj.AssemblyReference.cache
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\TratamentoErros.AssemblyInfoInputs.cache
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\TratamentoErros.AssemblyInfo.cs
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\TratamentoErros.csproj.CoreCompileInputs.cache
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\TratamentoErros.dll
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\refint\TratamentoErros.dll
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\TratamentoErros.pdb
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\TratamentoErros.genruntimeconfig.cache
+C:\Projetos\BaltaIO\TratamentoErros\obj\Debug\net6.0\ref\TratamentoErros.dll
